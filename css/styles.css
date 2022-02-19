@@ -53,7 +53,7 @@ img {
 .header {
   padding-top: 24px;
   padding-bottom: 25px;
-  border-bottom: 2px solid #f5f4fa;
+  border-bottom: 2px solid #ececec;
 }
 
 .header-container {
@@ -369,7 +369,7 @@ img {
 
 .tab-wrapper {
   background-color: #ffffff;
-  border: 1px solid #f5f4fa;
+  border: 1px solid #eeeeee;
   border-top: none;
   border-radius: 4px;
   padding-top: 20px;
